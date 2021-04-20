@@ -4,7 +4,6 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"random fact": "I am a monkey boy",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
